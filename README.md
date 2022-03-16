@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mahnaz Mirbolouki
-- 👀 I’m interested in Data Sience and SAP-ABAP programming.
+- 👋 Hi, I’m Mahnaz Mirbolouki. My main Major is Mathematics with a focus on Operations Research.
+- 👀 I’m interested in Data Science and SAP-ABAP programming.
 - 🌱 I’m currently learning Machine Learning Techniques and ABAP programming with SAP NetWeaver 7.5.
 
 <!---
