@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MahnazMirbolouki
+- 👋 Hi, I’m Mahnaz Mirbolouki
 - 👀 I’m interested in Data Sience and SAP-ABAP programming.
-- 🌱 I’m currently learning Mashine Learning Techniques and ABAP programming with SAP NetWeaver 7.5.
+- 🌱 I’m currently learning Machine Learning Techniques and ABAP programming with SAP NetWeaver 7.5.
 
 <!---
 MahnazMirbolouki/MahnazMirbolouki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
